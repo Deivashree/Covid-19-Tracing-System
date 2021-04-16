@@ -1,0 +1,7 @@
+1181103015 Ali Imran Bin Shahrin
+1181103244 Deivashree A/P Selva Rajoo
+
+TASK DISTRIBUTION
+1.Customer and Shop - Ali Imran Bin Shahrin & Deivashree A/P Selva Rajoo (50% & 50%) 
+2.Admin - Ali Imran Bin Shahrin & Deivashree A/P Selva Rajoo (50% & 50%)
+3.Javadoc - Ali Imran Bin Shahrin & Deivashree A/P Selva Rajoo (50% & 50%)
